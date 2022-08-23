@@ -1,0 +1,25 @@
+*{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+
+  color: #000000;
+}
+.timer{
+  width: 350px;
+  height: 150px;
+  margin: 10px auto;
+  padding: 10px;
+  display: flex;
+  background: #EBEBEB;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.time{
+  
+  margin: 15px auto; 
+}
+.container{
+  padding: 20vh 0;
+}
